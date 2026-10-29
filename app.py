@@ -1,4 +1,4 @@
 print("Hello, GitHub!")
 print("My first Python project")
-print("welcome")
-print("world ")
+print("welcome to my app.py")
+print("i am learning git commands")
